@@ -1,5 +1,5 @@
 # urban_navigator_app
-<img scr = "https://github.com/S-Rathore25/urban_navigator_app/blob/master/Screenshot%202025-07-26%20214545.png">
+![image alt](https://github.com/S-Rathore25/urban_navigator_app/blob/master/Screenshot%202025-07-26%20214545.png?raw=true)
 <img scr = "https://github.com/S-Rathore25/urban_navigator_app/blob/master/Screenshot%202025-07-26%20214531.png">
 <img scr = "https://github.com/S-Rathore25/urban_navigator_app/blob/master/Screenshot%202025-07-26%20214456.png">
 <img scr = "https://github.com/S-Rathore25/urban_navigator_app/blob/master/Screenshot%202025-07-26%20214444.png">
