@@ -1,5 +1,6 @@
 # urban_navigator_app
-< img scr = "https://github.com/S-Rathore25/urban_navigator_app/blob/master/Screenshot%202025-07-26%20214545.png" , alt ="MLBC">
+<img scr = "https://github.com/S-Rathore25/urban_navigator_app/blob/master/Screenshot%202025-07-26%20214545.png", alt ="MLBC">
+
 A new Flutter project.
 
 ## Getting Started
